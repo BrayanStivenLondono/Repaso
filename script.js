@@ -1,3 +1,3 @@
-function prueba () {
-    
+function saludo () {
+    alert ("Hola Mundo");
 }
